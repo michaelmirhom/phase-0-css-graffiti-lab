@@ -1,1 +1,29 @@
 /* write your override styles here */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* New styles */
+  
+  body {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
